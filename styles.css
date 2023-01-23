@@ -80,3 +80,50 @@ img {
     display: flex;
   }
 
+  /* section two */
+  .sectionTwo {
+    background-color: #f0f1f181;
+    color: rgb(204, 204, 204);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+  }
+
+  .random-information {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    padding-top: 40px;
+    font-size: 40px;
+    font-weight: bold;
+   text-align: center;
+  }
+
+
+  .food {
+
+ 
+   border-radius: 25px;
+ 
+   height: 250px;
+   width: 250px;
+   
+  }
+
+  .text {
+    text-align: center;
+    inline-size: 200px;
+    overflow-wrap: break-word;
+    padding-top: 30px;
+    margin-left: 31px;
+    font-size: 20px;
+  }
+
+  .boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    padding-top: 30px;
+  }
